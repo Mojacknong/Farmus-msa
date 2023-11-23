@@ -1,0 +1,18 @@
+[submodule "Farmus-msa-user"]
+	path = Farmus-msa-user
+	url = https://github.com/Mojacknong/Farmus-msa-user
+[submodule "Farmus-msa-community"]
+	path = Farmus-msa-community
+	url = https://github.com/Mojacknong/Farmus-msa-community
+[submodule "Farmus-msa-crop"]
+	path = Farmus-msa-crop
+	url = https://github.com/Mojacknong/Farmus-msa-crop
+[submodule "Farmus-msa-farm"]
+	path = Farmus-msa-farm
+	url = https://github.com/Mojacknong/Farmus-msa-farm
+[submodule "Farmus-msa-gateway"]
+	path = Farmus-msa-gateway
+	url = https://github.com/Mojacknong/Farmus-msa-gateway
+[submodule "Farmus-msa-eureka"]
+	path = Farmus-msa-eureka
+	url = https://github.com/Mojacknong/Farmus-msa-eureka
